@@ -1,0 +1,7 @@
+appId: com.medgrocer.ace-eval-generator
+productName: ACE Eval Generator
+directories:
+  output: release
+files:
+  - out/**/*
+  - package.json
